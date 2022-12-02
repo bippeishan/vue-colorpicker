@@ -1,5 +1,5 @@
 {
-    "name": "@caohenghu/vue-colorpicker",
+    "name": "@bipeishan/vue-colorpicker",
     "version": "1.2.4",
     "description": "Colorpicker of Vue Components",
     "main": "src/index.js",
@@ -15,9 +15,9 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/caohenghu/vue-colorpicker"
+        "url": "https://github.com/bippeishan/vue-colorpicker"
     },
-    "author": "caohenghu <caohenghu@gmail.com>",
+    "author": "bipeishan <bipeishan666@163.com>",
     "license": "MIT",
     "files": [
         "src"
