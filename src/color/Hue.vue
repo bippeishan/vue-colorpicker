@@ -104,7 +104,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="less">
 .hue {
     position: relative;
     margin-left: 8px;

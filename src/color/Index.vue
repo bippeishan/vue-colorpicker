@@ -256,7 +256,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="less">
 .hu-color-picker {
     padding: 10px;
     background: #1d2024;

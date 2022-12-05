@@ -94,7 +94,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="less">
 .colors {
     padding: 0;
     margin: 0;

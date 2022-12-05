@@ -161,7 +161,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="less">
 .sucker {
     width: 30px;
     fill: #9099a4;

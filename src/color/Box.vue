@@ -35,7 +35,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="less">
 .color-type {
     display: flex;
     margin-top: 8px;

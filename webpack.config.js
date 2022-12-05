@@ -33,12 +33,12 @@ module.exports = options => {
         //     use: 'babel-loader'
         // },
         {
-            test: /\.scss$/,
+            test: /\.less$/,
             use: [
                 isLocal ? 'vue-style-loader' : MiniCssExtractPlugin.loader,
                 'css-loader',
                 'postcss-loader',
-                'sass-loader'
+                'less-loader'
             ]
         },
         {

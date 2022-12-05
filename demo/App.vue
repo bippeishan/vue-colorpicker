@@ -111,7 +111,7 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style lang="less">
 .hu-page {
     height: 100%;
     .bg {
